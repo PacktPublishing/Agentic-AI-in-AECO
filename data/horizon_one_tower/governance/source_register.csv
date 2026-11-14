@@ -1,0 +1,9 @@
+source_id,title,data_class,owner,alias_of
+FAC-SPEC-R06,Podium façade specification R06,confidential,Lead Architect,
+SUP-A-RETURN,Supplier A tender return,confidential,Commercial Manager,DEMO-QUOTE-A-R1
+SUP-B-RETURN,Supplier B tender return,confidential,Commercial Manager,DEMO-QUOTE-B-R1
+SUP-C-RETURN,Supplier C tender return,confidential,Commercial Manager,DEMO-QUOTE-C-R1
+SUP-D-RETURN,Supplier D tender return,confidential,Commercial Manager,DEMO-QUOTE-D-R1
+HOT-PLN-RPT-P03,Planning report P03,internal,Planning Consultant,
+HOT-FIRE-STRAT-R02,Fire strategy R02,restricted,Fire Engineer,
+HOT-PUBLIC-BRIEF,Public consultation brief,public,Development Manager,

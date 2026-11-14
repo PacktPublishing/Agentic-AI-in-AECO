@@ -1,0 +1,3 @@
+activity_id,zone_id,data_date,observed_pct,evidence_ref,verified
+L4-CONC,L04-STR,2026-04-17,60,DIARY-017-R1,True
+POD-REINF,POD-STR,2026-04-17,75,DIARY-017-R1,True

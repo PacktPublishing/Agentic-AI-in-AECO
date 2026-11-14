@@ -1,0 +1,13 @@
+{
+  "scenario_id": "PLAN-SCENARIO-01",
+  "crew_id": "FW-CREW-02",
+  "crew": 8,
+  "blocked_shifts": 3,
+  "standby_per_shift_gbp": 240,
+  "proposed_move": 5,
+  "alternative_capacity": 5,
+  "transfer_gbp": 600,
+  "alternative_area": "POD-STR",
+  "alternative_confirmed": false,
+  "note": "Planner-supplied scenario; not calculated from the progress observation."
+}

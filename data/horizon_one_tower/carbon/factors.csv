@@ -1,0 +1,4 @@
+factor_id,component,factor,factor_unit,scope,indicator,factor_ref
+F-ACP,panels,4.0,kgCO2e/kg,A1-A3,GWP-total,DEMO-F-01-r1
+F-TER,panels,1.1,kgCO2e/kg,A1-A3,GWP-total,DEMO-F-02-r1
+F-SUP,supports,5.0,kgCO2e/kg,A1-A3,GWP-total,DEMO-F-03-r1

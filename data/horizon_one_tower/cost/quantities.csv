@@ -1,0 +1,6 @@
+revision,item_id,zone,element_type,quantity,unit,quantity_basis,source_ref,object_refs
+R01,POD-Z1-TER,Z1 north elevation,terracotta_rainscreen,500.0,m2,net panel area,DEMO-QTO-R01,FAC-PNL-001..112
+R01,POD-Z2-TER,Z2 east elevation,terracotta_rainscreen,650.0,m2,net panel area,DEMO-QTO-R01,FAC-PNL-113..258
+R02,POD-Z1-TER,Z1 north elevation,terracotta_rainscreen,520.0,m2,net panel area,DEMO-QTO-R02,FAC-PNL-001..116
+R02,POD-Z2-TER,Z2 east elevation,terracotta_rainscreen,680.0,m2,net panel area,DEMO-QTO-R02,FAC-PNL-113..265
+R02,POD-RET-TER,Corner returns,terracotta_return_panel,36.0,m2,net panel area,DEMO-QTO-R02,FAC-RET-001..024

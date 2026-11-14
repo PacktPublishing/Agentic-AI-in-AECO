@@ -1,0 +1,12 @@
+# Core: every chapter except Chapter 12, plus all tests that do not need Open3D.
+pydantic>=2.6
+scikit-learn>=1.4
+pandas>=2.2
+numpy>=1.26
+langgraph>=0.2
+pymupdf>=1.24          # Chapter 2 PDF parsing
+fpdf2>=2.7             # scripts/generate_sample_pdf.py only
+pytest>=8.0
+
+# Optional model cores (horizon_core/llm.py). Not needed: MockLLM is the default.
+# anthropic>=0.34

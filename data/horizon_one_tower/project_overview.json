@@ -1,0 +1,47 @@
+{
+  "project_name": "Horizon One Tower",
+  "location": "London regeneration district (fictional)",
+  "description": "Mixed-use high-rise development with tower, podium, retail, offices, residential units, basements, and public realm works.",
+  "tower_storeys": 32,
+  "podium_storeys": 6,
+  "basement_levels": 2,
+  "gia_target_m2": {
+    "min": 55000,
+    "max": 65000
+  },
+  "gia_by_use_target_m2": {
+    "residential": 34000,
+    "office": 14000,
+    "retail": 7000,
+    "amenity_and_back_of_house": 5000
+  },
+  "client_priorities_ranked": [
+    "residential_amenity",
+    "podium_retail_activation",
+    "floor_area_maximisation"
+  ],
+  "disciplines": [
+    "Architecture",
+    "Structure",
+    "MEP",
+    "Sustainability",
+    "Cost",
+    "Programme",
+    "Procurement",
+    "Planning",
+    "Facilities Management"
+  ],
+  "systems_in_use": [
+    "Federated BIM model (Architecture, Structure, MEP)",
+    "IFC exports",
+    "Common Data Environment (CDE)",
+    "GIS layers",
+    "Cost plan",
+    "Programme / schedule",
+    "Procurement tracker",
+    "Site photographs / point cloud extracts",
+    "Asset register",
+    "O&M manuals",
+    "BMS data"
+  ]
+}

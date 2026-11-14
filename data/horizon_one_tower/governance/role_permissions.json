@@ -1,0 +1,31 @@
+{
+  "Commercial Manager": {
+    "may_request": [
+      "summarise",
+      "recommend"
+    ],
+    "max_class": "confidential"
+  },
+  "Design Manager": {
+    "may_request": [
+      "summarise",
+      "recommend"
+    ],
+    "max_class": "internal"
+  },
+  "Fire Engineer": {
+    "may_request": [
+      "summarise",
+      "recommend"
+    ],
+    "max_class": "restricted"
+  },
+  "Project Lead": {
+    "may_request": [
+      "summarise",
+      "recommend",
+      "write_action"
+    ],
+    "max_class": "restricted"
+  }
+}

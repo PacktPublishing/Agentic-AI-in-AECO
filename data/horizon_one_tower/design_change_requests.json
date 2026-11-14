@@ -1,0 +1,22 @@
+[
+  {
+    "request_id": "DCR-0007",
+    "title": "Podium facade material substitution",
+    "description": "Contractor has proposed substituting the podium rainscreen from Aluminium Composite Panel (ACP, the current approved baseline, 'Option A') to a terracotta rainscreen system ('Option B'), raised for appearance, durability and carbon reasons at the 2026-08-12 design coordination meeting.",
+    "option_a": "Aluminium Composite Panel (ACP) rainscreen, A2-s1,d0 mineral core - current approved baseline",
+    "option_b": "Terracotta rainscreen - proposed substitution",
+    "raised_by": "Contractor, via Design Manager",
+    "raised_date": "2026-08-12",
+    "planning_submission_reference": {
+      "document": "Design and Access Statement (pre-application submission, Rev P02)",
+      "note": "The pre-application submission described the podium facade as an Aluminium Composite Panel rainscreen with a specific colour and panel module, referenced directly in the townscape and character narrative reviewed by planning officers. A change of facade material at podium level is likely to require the description of development and character narrative to be revisited with the planning consultant before submission, even though the massing itself is unaffected.",
+      "confidence": "Medium"
+    },
+    "operations_notes": {
+      "note": "The building maintenance unit (BMU) and facade access strategy in the current Operations & Maintenance outline were sized around the ACP panel dimensions and weight. Terracotta panels are typically heavier per unit area; Facilities Management has not yet confirmed whether the existing BMU capacity and replacement panel logistics remain adequate for the proposed system.",
+      "confidence": "Low",
+      "requires_fm_review": true
+    },
+    "package_id": "HOT-POD-FAC-01"
+  }
+]

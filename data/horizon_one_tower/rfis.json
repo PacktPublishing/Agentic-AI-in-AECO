@@ -1,0 +1,29 @@
+[
+  {
+    "rfi_id": "RFI-0087",
+    "discipline": "Structure",
+    "zone": "Podium Level 3",
+    "question": "Confirm acceptable transfer beam depth at grid C4 given riser clash (ISS-0142).",
+    "raised_date": "2026-08-12",
+    "due_date": "2026-08-26",
+    "status": "Open"
+  },
+  {
+    "rfi_id": "RFI-0091",
+    "discipline": "Procurement",
+    "zone": "Facade - Podium",
+    "question": "Confirm supplier availability and lead time for terracotta rainscreen system if selected as facade substitution.",
+    "raised_date": "2026-08-14",
+    "due_date": "2026-08-28",
+    "status": "Open"
+  },
+  {
+    "rfi_id": "RFI-0079",
+    "discipline": "Planning",
+    "zone": "Whole Site",
+    "question": "Confirm whether stepped massing guidance from pre-application advice (PA-04) is expected to be followed or can be justified against.",
+    "raised_date": "2026-07-25",
+    "due_date": "2026-08-08",
+    "status": "Open"
+  }
+]

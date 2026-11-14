@@ -1,0 +1,4 @@
+activity_id,zone_id,data_date,planned_pct,programme_rev,package_id,cost_code,model_mapping
+L4-CONC,L04-STR,2026-04-17,100,P06,HOT-STR-FRAME,CC-03-310,S12
+POD-REINF,POD-STR,2026-04-17,75,P06,HOT-STR-FRAME,CC-03-320,S12
+L5-PREP,L05-STR,2026-04-17,20,P06,HOT-STR-FRAME,CC-03-310,S12

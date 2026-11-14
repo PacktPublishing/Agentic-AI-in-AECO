@@ -1,0 +1,32 @@
+[
+  {
+    "id": "G1",
+    "control": "Every agent has a named reviewer role",
+    "evidence": "registry.reviewer_role"
+  },
+  {
+    "id": "G2",
+    "control": "Every agent declares what it must not do",
+    "evidence": "registry.cannot_do"
+  },
+  {
+    "id": "G3",
+    "control": "Every agent declares the data class it handles",
+    "evidence": "registry.data_class"
+  },
+  {
+    "id": "G4",
+    "control": "Every agent has automated tests",
+    "evidence": "tests/test_chN.py"
+  },
+  {
+    "id": "G5",
+    "control": "Every agent has an evaluation set with expected answers",
+    "evidence": "appendix_a/golden_cases.json"
+  },
+  {
+    "id": "G6",
+    "control": "Runs are written to an audit trail",
+    "evidence": "AuditLog entries"
+  }
+]

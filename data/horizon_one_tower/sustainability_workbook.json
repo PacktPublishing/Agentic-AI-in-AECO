@@ -1,0 +1,22 @@
+{
+  "facade_package": {
+    "current_option": {
+      "name": "Aluminium Composite Panel (ACP) rainscreen, A2-s1,d0 mineral core",
+      "embodied_carbon_kgco2e_per_m2": 50,
+      "service_life_years": 30,
+      "replacement_cycle_years": 30,
+      "certification": "EPD available (generic, not product-specific)",
+      "evidence_quality": "Medium"
+    },
+    "proposed_option": {
+      "name": "Terracotta rainscreen",
+      "embodied_carbon_kgco2e_per_m2": 46,
+      "service_life_years": 50,
+      "replacement_cycle_years": 50,
+      "certification": "Product-specific EPD not yet supplied by TerraFacade UK; figure is a generic material benchmark",
+      "evidence_quality": "Low"
+    },
+    "notes": "Terracotta shows a lower screening figure (46 against 50 kgCO2e/m2) and a longer service life, but the proposed option relies on a generic benchmark rather than a product-specific EPD, so confidence should be stated as such until confirmed.",
+    "scope": "A1-A3, panels and supports only (screening scope used in Chapter 7)"
+  }
+}

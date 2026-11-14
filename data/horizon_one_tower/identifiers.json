@@ -1,0 +1,36 @@
+{
+  "project_id": "HOT",
+  "note": "Identifiers shared across chapters. Fictional teaching data.",
+  "packages": {
+    "HOT-POD-FAC-01": "Podium façade rainscreen package (Chapters 3, 7, 8, 9, 12, 14)"
+  },
+  "design_changes": {
+    "DCR-0007": "Podium façade substitution, ACP to terracotta (Chapters 3, 7, 8, 9)"
+  },
+  "activities": {
+    "L4-CONC": "Level 4 concrete placement (Chapters 10, 12)",
+    "POD-REINF": "Podium reinforcement (Chapter 10)",
+    "L5-PREP": "Level 5 preparation (Chapter 10)"
+  },
+  "zones": {
+    "L04-STR": "Level 4 structural zone",
+    "POD-STR": "Podium structure",
+    "L05-STR": "Level 5 structural zone"
+  },
+  "captures": {
+    "SCAN-L04-0428": "Terrestrial laser scan of Level 4, 28 April 2026 (Chapter 12)"
+  },
+  "fabrication": {
+    "PAV-03": "Pavilion print, day 3 lift (Chapter 11)"
+  },
+  "assets": {
+    "H1T-AHU-L19-01": "Air-handling unit serving Levels 17 to 21 (Chapter 13)"
+  },
+  "governance": {
+    "HOT-GOV-014": "Governed supplier comparison task (Chapter 14)"
+  },
+  "known_inconsistencies": [
+    "Chapter 13 uses the prefix H1T for assets; other chapters use HOT. Kept as printed.",
+    "Chapter 14 cites FAC-SPEC-R06 and SUP-*-RETURN; Chapter 9 cites DEMO-QUOTE-*-R1. Mapped in governance/source_register.csv."
+  ]
+}

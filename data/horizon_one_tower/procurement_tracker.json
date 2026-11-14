@@ -1,0 +1,32 @@
+{
+  "facade_package": {
+    "current_option_suppliers": [
+      {
+        "name": "AluClad Systems Ltd",
+        "material": "Aluminium Composite Panel, A2-s1,d0 mineral core",
+        "lead_time_weeks": 10,
+        "warranty_years": 15,
+        "availability": "Confirmed"
+      }
+    ],
+    "proposed_option_suppliers": [
+      {
+        "name": "TerraFacade UK",
+        "material": "Terracotta rainscreen",
+        "lead_time_weeks": 18,
+        "warranty_years": 25,
+        "availability": "Confirmed",
+        "risk_notes": "Longer lead time than current baseline; may affect critical path if not ordered promptly."
+      },
+      {
+        "name": "ClayLine Facades",
+        "material": "Terracotta rainscreen",
+        "lead_time_weeks": 14,
+        "warranty_years": 20,
+        "availability": "Provisional",
+        "risk_notes": "Availability not yet firm; awaiting factory capacity confirmation."
+      }
+    ],
+    "substitution_risk_summary": "Two suitable terracotta suppliers identified. One offers a shorter lead time but availability is only provisional; the other has confirmed availability but a materially longer lead time than the current ACP baseline."
+  }
+}

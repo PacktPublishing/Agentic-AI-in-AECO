@@ -1,0 +1,14 @@
+[
+  {
+    "doc_id": "OM-HVAC-AHU-019",
+    "section": "6.3 Filtration",
+    "revision": "C1",
+    "text": "Increased resistance across the filter bank reduces airflow and raises fan demand. Inspect and replace filters when differential pressure exceeds 280 Pa or after 12 weeks of operation."
+  },
+  {
+    "doc_id": "OM-HVAC-AHU-019",
+    "section": "7.1 Fan section",
+    "revision": "C1",
+    "text": "Before replacing fan components, confirm filter condition, damper position and sensor calibration. Fan replacement under warranty must be carried out by an approved contractor."
+  }
+]

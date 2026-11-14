@@ -1,0 +1,5 @@
+use_case,cases_tested,pass_rate,review_minutes_agent,review_minutes_manual,value_change_pct,risk_acceptable,main_error_source
+Weekly design coordination review,40,0.95,25,180,-80,True,superseded RFIs missed in 2 cases
+BEP compliance log,30,0.8,60,240,-60,True,asset naming differs between model and register
+Progress variance report,12,0.92,30,120,-70,True,too few cut-offs tested
+Contractual response drafting,25,0.88,140,120,15,True,reviewers must verify the agent's interpretation as well as the correspondence

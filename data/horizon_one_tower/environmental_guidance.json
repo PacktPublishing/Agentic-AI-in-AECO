@@ -1,0 +1,20 @@
+{
+  "daylight_overshadowing": {
+    "guidance_source": "Daylight and Sunlight SPG + BRE 209 methodology",
+    "sensitive_receptors": ["Canal Walk Residences", "Riverside Terrace"],
+    "notes": "Podium massing directly opposite Canal Walk Residences is the primary daylight risk. No detailed VSC/APSH technical model has been run yet at this stage; findings are based on massing sketches and general guidance only.",
+    "requires_technical_model_before_confirmation": true
+  },
+  "contamination": {
+    "history": "Former light-industrial use on part of the site (pre-1980s). Phase 1 desk study recommended; no Phase 2 intrusive investigation completed yet.",
+    "confidence": "Medium"
+  },
+  "noise": {
+    "notes": "Site fronts a moderately trafficked road; residential units above podium level likely need enhanced glazing specification.",
+    "confidence": "Medium"
+  },
+  "wind_microclimate": {
+    "notes": "No pedestrian wind microclimate study completed yet; podium height and massing may affect ground-level comfort at the public realm entrance.",
+    "confidence": "Low"
+  }
+}

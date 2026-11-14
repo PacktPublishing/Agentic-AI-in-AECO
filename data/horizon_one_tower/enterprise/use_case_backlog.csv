@@ -1,0 +1,13 @@
+use_case,chapter,frequency_per_month,information_identified,output_user,reviewer,value_measure,risk,effort
+Weekly design coordination review,1,4,True,Design Manager,Design Manager,Hours to prepare the weekly coordination report,1,1
+Planning constraint register,4,2,True,Planning Consultant,Planning Consultant,Time to assemble constraints for a feasibility decision,2,2
+BEP compliance log,6,4,True,BIM Manager,BIM Manager,Information gaps found before model issue,2,2
+Carbon screening of substitutions,7,2,True,Sustainability Consultant,Sustainability Consultant,Days from substitution request to carbon screening,2,2
+Cost movement ledger,8,4,True,Cost Consultant,Cost Consultant,Days to identify estimated movement after a quantity update,3,3
+Supplier evaluation matrix,9,1,True,Procurement Manager,Commercial Manager,Supplier risks exposed before tender report,4,3
+Progress variance report,10,4,True,Project Planner,Project Planner,Hours to reconcile progress evidence with the programme,2,2
+Print monitoring advisory,11,20,True,Print Supervisor,Print Supervisor,Interventions before a print defect,5,4
+Scan-vs-BIM inspection,12,2,True,Site Inspector,Site Inspector,Deviations found before the next trade starts,3,4
+FM fault triage,13,30,False,FM Lead,FM Lead,Time from alarm to an evidenced work order,3,3
+Contractual response drafting,14,6,True,Commercial Manager,,Hours to draft contractual responses,4,3
+AI meeting minutes for every meeting,0,40,False,,,,2,1

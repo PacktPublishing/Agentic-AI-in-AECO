@@ -1,0 +1,62 @@
+{
+  "doors": [
+    {
+      "object_id": "DR-P3-014", "type": "Fire Door", "location": "Podium Level 3, Corridor 3B",
+      "fire_rating": "PLACEHOLDER", "asset_classification": "Uniclass Pr_20_31_16",
+      "maintenance_access_clearance_mm": 900, "source": "Federated BIM model"
+    },
+    {
+      "object_id": "DR-P3-015", "type": "Fire Door", "location": "Podium Level 3, Corridor 3B",
+      "fire_rating": "PLACEHOLDER", "asset_classification": "Uniclass Pr_20_31_16",
+      "maintenance_access_clearance_mm": 900, "source": "Federated BIM model"
+    },
+    {
+      "object_id": "DR-P3-016", "type": "Fire Door", "location": "Podium Level 3, Plant Room",
+      "fire_rating": "PLACEHOLDER", "asset_classification": "Uniclass Pr_20_31_16",
+      "maintenance_access_clearance_mm": 900, "source": "Federated BIM model"
+    },
+    {
+      "object_id": "DR-T18-002", "type": "Residential Entrance Door", "location": "Tower Level 18, Unit 02",
+      "fire_rating": "FD30", "asset_classification": "Uniclass Pr_20_31_16",
+      "maintenance_access_clearance_mm": 900, "source": "Federated BIM model"
+    },
+    {
+      "object_id": "DR-GF-003", "type": "Retail Entrance Door", "location": "Ground Floor, Retail 01",
+      "fire_rating": "FD60", "asset_classification": "Uniclass Pr_20_31_16",
+      "maintenance_access_clearance_mm": 1000, "source": "Federated BIM model"
+    }
+  ],
+  "walls": [
+    {
+      "object_id": "WALL-P3-012", "type": "Fire Compartment Wall", "location": "Podium Level 3",
+      "fire_rating": "REI 90", "asset_classification": "Uniclass Ss_25_10_25",
+      "source": "Federated BIM model"
+    },
+    {
+      "object_id": "WALL-B1-004", "type": "Fire Compartment Wall", "location": "Basement 1, Plant Room",
+      "fire_rating": "REI 90", "asset_classification": "Uniclass Ss_25_10_25",
+      "source": "Federated BIM model"
+    }
+  ],
+  "mechanical_assets": [
+    {
+      "object_id": "MEP-AHU-P3-01", "type": "Air Handling Unit", "location": "Podium Level 3, Plant Room",
+      "maintenance_access_clearance_mm": null, "asset_classification": "Uniclass Pr_70_70_15",
+      "warranty_years": 15, "source": "Federated BIM model"
+    },
+    {
+      "object_id": "MEP-PUMP-B1-01", "type": "Circulation Pump", "location": "Basement 1, Plant Room",
+      "maintenance_access_clearance_mm": 600, "asset_classification": "Uniclass Pr_70_70_31",
+      "warranty_years": 10, "source": "Federated BIM model"
+    }
+  ],
+  "rooms": [
+    {"object_id": "GF-RETAIL-01", "name": "Retail 01", "classification_code": null, "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "GF-RETAIL-02", "name": "Retail 02", "classification_code": null, "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "GF-RETAIL-03", "name": "Retail 03", "classification_code": null, "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "P3-OFFICE-01", "name": "Office 3.01", "classification_code": "Uniclass Ss_25_14_27", "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "P3-OFFICE-02", "name": "Office 3.02", "classification_code": "Uniclass Ss_25_14_27", "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "T18-RES-01", "name": "Apartment 18.01", "classification_code": "Uniclass Ss_25_16_08", "accessible_facility": false, "accessibility_clearance_confirmed": null},
+    {"object_id": "GF-WC-ACCESSIBLE-01", "name": "Accessible WC - Ground Floor", "classification_code": "Uniclass Ss_65_71_23", "accessible_facility": true, "accessibility_clearance_confirmed": false}
+  ]
+}

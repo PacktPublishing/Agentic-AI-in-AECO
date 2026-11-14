@@ -1,0 +1,16 @@
+[
+  {
+    "meeting_id": "MTG-2026-08-12-DESIGN",
+    "date": "2026-08-12",
+    "discipline": "Design Coordination",
+    "attendees": ["Design Manager", "BIM Coordinator", "Structural Engineer", "MEP Engineer"],
+    "notes": "Discussed podium Level 3 transfer beam / riser clash (ISS-0142, ISS-0143). Structural engineer to propose revised beam depth by 2026-08-20. Contractor separately raised a possible facade substitution from ACP to terracotta rainscreen for cost reasons; design manager asked for a coordinated review across BIM, cost, sustainability, procurement, planning and operations before proceeding."
+  },
+  {
+    "meeting_id": "MTG-2026-08-05-FACADE",
+    "date": "2026-08-05",
+    "discipline": "Facade",
+    "attendees": ["Design Lead", "Facade Consultant", "Cost Consultant"],
+    "notes": "Facade consultant flagged that terracotta bracket depth needs checking against the fire-stopping zone before it can be confirmed (ISS-0144). Cost consultant to provide indicative cost movement for the substitution."
+  }
+]

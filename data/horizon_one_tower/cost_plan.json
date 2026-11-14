@@ -1,0 +1,43 @@
+{
+  "revision": "P06",
+  "status": "Approved",
+  "currency": "GBP",
+  "facade_package": {
+    "package_id": "HOT-POD-FAC-01",
+    "quantity_m2": 1200,
+    "quantity_source": "DEMO-QTO-R03 (podium street elevations, including corner returns)",
+    "current_option": {
+      "name": "Aluminium Composite Panel (ACP) rainscreen, A2-s1,d0 mineral core",
+      "rate_per_m2": 600,
+      "total": 720000,
+      "notes": "Current baseline in the approved cost plan. Installed rate including support system; access allowance held separately."
+    },
+    "proposed_option": {
+      "name": "Terracotta rainscreen",
+      "rate_per_m2": 650,
+      "total": 780000,
+      "notes": "Indicative budget rate; not yet a firm quotation because panel module sizes are still being finalised.",
+      "rate_confirmed": false
+    },
+    "quantity_assumption": "Current façade quantity remains unchanged (1,200 m2 at R03).",
+    "exclusions": [
+      "Bracket redesign cost, if required following fire-stopping review (ISS-0144)",
+      "Access allowance (held at package level, see Chapter 8)"
+    ]
+  },
+  "cost_movement_items": [
+    {
+      "item": "Facade package substitution (ACP to terracotta)",
+      "movement_gbp": 60000,
+      "direction": "increase",
+      "confidence": "Medium"
+    },
+    {
+      "item": "Podium Level 3 transfer beam revision (ISS-0142)",
+      "movement_gbp": 45000,
+      "direction": "increase",
+      "confidence": "Low"
+    }
+  ],
+  "regulatory_note": "Horizon One Tower is a relevant building under Building Regulations regulation 7(2) (residential storeys above 18 m). Materials in the external wall, including the podium, must achieve Euroclass A2-s1,d0 or A1. Both options are assumed to meet this; the classification evidence must be confirmed by the fire engineer."
+}

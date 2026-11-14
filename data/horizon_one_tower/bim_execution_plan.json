@@ -1,0 +1,63 @@
+{
+  "document": "Horizon One Tower BIM Execution Plan (BEP), Rev 3",
+  "date": "2026-05-01",
+  "requirements": [
+    {
+      "object_category": "Door",
+      "parameter": "fire_rating",
+      "required": true,
+      "affects": ["design_coordination", "facilities_handover"],
+      "notes": "All fire doors must carry a confirmed fire rating (e.g. FD30, FD60) matching the approved fire strategy. A placeholder value carried over from an early design template is not acceptable for issue."
+    },
+    {
+      "object_category": "Door",
+      "parameter": "asset_classification",
+      "required": true,
+      "affects": ["cost_estimation", "facilities_handover"],
+      "notes": "Every door must carry a Uniclass classification code so it can be scheduled and costed correctly."
+    },
+    {
+      "object_category": "Door",
+      "parameter": "maintenance_access_clearance_mm",
+      "required": true,
+      "affects": ["facilities_handover"],
+      "notes": "Clear maintenance access dimensions must be recorded for facilities management planning."
+    },
+    {
+      "object_category": "Wall",
+      "parameter": "fire_rating",
+      "required": true,
+      "affects": ["design_coordination", "facilities_handover"],
+      "notes": "Fire compartment walls must carry a confirmed fire resistance rating (e.g. REI 60, REI 90)."
+    },
+    {
+      "object_category": "Mechanical Asset",
+      "parameter": "maintenance_access_clearance_mm",
+      "required": true,
+      "affects": ["facilities_handover"],
+      "notes": "Plant requiring routine maintenance must record the clearance needed to service it."
+    },
+    {
+      "object_category": "Mechanical Asset",
+      "parameter": "asset_classification",
+      "required": true,
+      "affects": ["cost_estimation", "facilities_handover"],
+      "notes": "Every mechanical asset must carry a Uniclass classification code for cost planning and the asset register."
+    },
+    {
+      "object_category": "Room",
+      "parameter": "classification_code",
+      "required": true,
+      "affects": ["cost_estimation"],
+      "notes": "Every room must carry a room classification code so areas can be scheduled correctly by use."
+    },
+    {
+      "object_category": "Room",
+      "parameter": "accessibility_clearance_confirmed",
+      "required": true,
+      "affects": ["design_coordination", "facilities_handover"],
+      "applies_to": "rooms flagged as accessible facilities (e.g. accessible WCs)",
+      "notes": "Rooms flagged as accessible facilities must have their clearance dimensions confirmed against the drawing set, not just modelled."
+    }
+  ]
+}
