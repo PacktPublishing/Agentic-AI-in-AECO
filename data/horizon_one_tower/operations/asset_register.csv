@@ -1,0 +1,3 @@
+asset_id,register_id,bms_point,system,floor,location,manufacturer,model,om_doc_id
+H1T-AHU-L19-01,MEP-AHU-019A,AHU_19_1,HVAC,L19,"Plant room L19, serves L17-L21",Fictional Air Ltd,FA-AHU-9000,OM-HVAC-AHU-019
+H1T-AHU-L07-01,MEP-AHU-007A,AHU_07_1,HVAC,L07,"Plant room L07, serves L05-L09",Fictional Air Ltd,FA-AHU-9000,OM-HVAC-AHU-007

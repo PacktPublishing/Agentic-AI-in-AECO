@@ -1,0 +1,8 @@
+role,person,task_design,information_structuring,retrieval,evaluation,workflow_mapping,governance,assurance,communication
+BIM Manager,R1,4,4,3,3,4,3,3,4
+Design Manager,R2,3,2,2,2,3,2,3,5
+Cost Consultant,R3,3,4,2,3,2,2,3,3
+Project Planner,R4,3,3,2,2,4,2,2,3
+Sustainability Consultant,R5,3,3,3,3,2,3,3,3
+FM Lead,R6,2,3,2,1,2,3,2,4
+Digital Delivery Lead,R7,5,4,4,4,4,4,3,4

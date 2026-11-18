@@ -1,0 +1,29 @@
+{
+  "material": {
+    "id": "MIX-PAV-02",
+    "revision": "Rev B",
+    "open_time_min": 15.0,
+    "min_ambient_c": 5.0,
+    "accelerator_pct": [
+      0.0,
+      0.8
+    ],
+    "maturity_required_c_h": 180.0,
+    "datum_c": -10.0
+  },
+  "printer": {
+    "manual": "Rev 4",
+    "print_speed_mm_s": [
+      80,
+      150
+    ],
+    "max_speed_step_pct": 10,
+    "target_layer_mm": 15.0,
+    "layer_tolerance_mm": 1.0
+  },
+  "watch": {
+    "interlayer_ratio": 0.8,
+    "pump_rise_bar_per_layer": 0.15
+  },
+  "note": "Teaching values only. Not recommended settings for any printer or mix."
+}

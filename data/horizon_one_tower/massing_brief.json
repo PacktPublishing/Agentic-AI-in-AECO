@@ -1,0 +1,35 @@
+{
+  "source": "Development brief + Chapter 4 feasibility findings",
+  "target_gia_by_use_m2": {
+    "residential": 34000,
+    "office": 14000,
+    "retail": 7000
+  },
+  "max_storeys": {
+    "tower": 32,
+    "podium": 6,
+    "value": "hard_below_30_soft_above",
+    "note": "Up to 30 storeys is straightforward; beyond 30 storeys triggers townscape justification (Policy D9)."
+  },
+  "setback_constraint_m": {
+    "podium_min_setback_above_6_storeys": 3,
+    "type": "hard_constraint",
+    "source": "Local Plan Policy D9.2"
+  },
+  "daylight_threshold": {
+    "description": "No material VSC reduction to Canal Walk Residences or Riverside Terrace windows.",
+    "type": "hard_constraint",
+    "source": "Local Plan Policy D9.4 / Daylight and Sunlight SPG"
+  },
+  "public_realm_min_m2": {
+    "value": 1200,
+    "type": "hard_constraint",
+    "source": "Local Plan Policy G4"
+  },
+  "client_priorities_ranked": [
+    {"priority": "residential_amenity", "weight": 1.0},
+    {"priority": "podium_retail_activation", "weight": 0.8},
+    {"priority": "floor_area_maximisation", "weight": 0.5}
+  ],
+  "site_area_m2": 4200
+}

@@ -1,0 +1,11 @@
+-r requirements.txt
+ifcopenshell>=0.8      # Chapters 2 and 12 (IFC geometry)
+open3d>=0.18           # Chapter 12 (point clouds); large wheel
+# Appendix A
+mcp>=2.0                         # A.4 MCP server (1.x also supported)
+ifctester>=0.8                   # A.8 IDS checks
+langgraph-checkpoint-sqlite>=2.0 # A.9 persistent reviews
+fastapi>=0.110                   # A.9 service sketch
+httpx>=0.27                      # FastAPI test client
+# opentelemetry-sdk>=1.24        # A.5 optional exporter
+# llama-index>=0.10              # A.7 optional back end

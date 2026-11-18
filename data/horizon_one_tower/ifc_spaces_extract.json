@@ -1,0 +1,92 @@
+[
+  {
+    "ifc_id": "2I_ZB_zjHEuePhES3eh0TT",
+    "name": "B1-PLANT-01",
+    "type": "Plant Room",
+    "storey": "Basement 1"
+  },
+  {
+    "ifc_id": "1CH30tk2nEWeyg9dGHe9su",
+    "name": "B1-CARPARK-01",
+    "type": "Car Park",
+    "storey": "Basement 1"
+  },
+  {
+    "ifc_id": "2OltwpnEL2pfv0ym_u3YZo",
+    "name": "GF-RETAIL-01",
+    "type": "Retail",
+    "storey": "Ground Floor"
+  },
+  {
+    "ifc_id": "08hO8tVXP49wExIXWoiKWE",
+    "name": "GF-RETAIL-02",
+    "type": "Retail",
+    "storey": "Ground Floor"
+  },
+  {
+    "ifc_id": "0L0k9B0CP6Ah7ZOvH3BZK5",
+    "name": "GF-RETAIL-03",
+    "type": "Retail",
+    "storey": "Ground Floor"
+  },
+  {
+    "ifc_id": "0svF7oxkr6V8bS2O4mManK",
+    "name": "GF-LOBBY-01",
+    "type": "Residential Lobby",
+    "storey": "Ground Floor"
+  },
+  {
+    "ifc_id": "0nk7Gl679AqghTFVq4Kacd",
+    "name": "GF-PUBLICREALM-01",
+    "type": "Public Realm",
+    "storey": "Ground Floor"
+  },
+  {
+    "ifc_id": "08VKv46J12$A6ej4ib$$Yx",
+    "name": "P3-OFFICE-01",
+    "type": "Office",
+    "storey": "Podium Level 3"
+  },
+  {
+    "ifc_id": "2yShlgbOXC1xKy6LhUatmx",
+    "name": "P3-OFFICE-02",
+    "type": "Office",
+    "storey": "Podium Level 3"
+  },
+  {
+    "ifc_id": "1zRe5YOoX7m9LVcvxelAiw",
+    "name": "P3-PLANTROOM-01",
+    "type": "Plant Room",
+    "storey": "Podium Level 3"
+  },
+  {
+    "ifc_id": "31ERR2uSX12v_RDfI4GBzP",
+    "name": "T18-RES-01",
+    "type": "Residential Apartment",
+    "storey": "Tower Level 18"
+  },
+  {
+    "ifc_id": "3fEMaB9v97sPGgFVZV0Vnx",
+    "name": "T18-RES-02",
+    "type": "Residential Apartment",
+    "storey": "Tower Level 18"
+  },
+  {
+    "ifc_id": "2Q$XL$y6DEe9BsttZK3s0F",
+    "name": "T18-CORE-01",
+    "type": "Core / Circulation",
+    "storey": "Tower Level 18"
+  },
+  {
+    "ifc_id": "24LrndtEP0NPCICpP2OESB",
+    "name": "T30-RES-01",
+    "type": "Residential Apartment",
+    "storey": "Tower Level 30"
+  },
+  {
+    "ifc_id": "0$bJTCsV95nBvCjPA_LFx6",
+    "name": "T30-AMENITY-01",
+    "type": "Residents Amenity",
+    "storey": "Tower Level 30"
+  }
+]

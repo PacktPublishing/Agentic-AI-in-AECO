@@ -1,0 +1,7 @@
+[
+  {"drawing_number": "STR-DWG-P3-014", "revision": "C", "title": "Podium Level 3 Transfer Structure", "discipline": "Structure", "status": "For Coordination", "issued_date": "2026-08-10"},
+  {"drawing_number": "MEP-DWG-P3-009", "revision": "B", "title": "Podium Level 3 MEP Riser Layout", "discipline": "MEP", "status": "For Coordination", "issued_date": "2026-08-09"},
+  {"drawing_number": "MEP-DWG-B1-002", "revision": "A", "title": "Basement 1 Plant Room Layout", "discipline": "MEP", "status": "For Coordination", "issued_date": "2026-07-15"},
+  {"drawing_number": "STR-DWG-T18-003", "revision": "D", "title": "Tower Level 18 Core Wall Detail", "discipline": "Structure", "status": "Approved", "issued_date": "2026-07-14"},
+  {"drawing_number": "ARC-DWG-PODF-001", "revision": "P02", "title": "Podium Facade Elevations", "discipline": "Architecture", "status": "Draft", "issued_date": "2026-08-04"}
+]

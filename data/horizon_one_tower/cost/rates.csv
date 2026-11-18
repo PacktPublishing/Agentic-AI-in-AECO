@@ -1,0 +1,3 @@
+revision,spec_id,unit,quantity_basis,rate_gbp,currency,rate_source,rate_date
+R01,TER-01,m2,net panel area,650.0,GBP,DEMO-RATE-TER-R01,2026-07-01
+R02,TER-01,m2,net panel area,680.0,GBP,DEMO-RATE-TER-R02,2026-08-15

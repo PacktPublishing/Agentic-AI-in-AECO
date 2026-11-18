@@ -1,0 +1,31 @@
+{
+ "parameter": "Podium facade U-value",
+ "unit": "W/m2K",
+ "specification": {
+  "document": "facade_specification_P04.pdf",
+  "revision": "P04",
+  "value": 1.8,
+  "date": "2026-08-20",
+  "note": "Updated following a value-engineering cost review of the glazing package."
+ },
+ "drawing": {
+  "document": "ARC-DWG-PODF-001",
+  "revision": "P02",
+  "value": 1.4,
+  "date": "2026-08-04",
+  "note": "Drawing note still references the original glazing performance value."
+ },
+ "model": {
+  "object": "Curtain Wall Type - Podium Facade",
+  "value": 1.4,
+  "date": "2026-07-10",
+  "source": "Federated BIM model",
+  "note": "Model parameter last updated when the podium facade type was first set up; not touched since."
+ },
+ "regulatory_limit": {
+  "value": 1.6,
+  "unit": "W/m2K",
+  "reference": "Approved Document L 2021 Volume 2 (England), limiting U-value for curtain walling",
+  "note": "A backstop value: the specified U-value must not exceed it, whatever the cost review concludes."
+ }
+}

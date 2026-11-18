@@ -1,0 +1,62 @@
+[
+  {
+    "issue_id": "ISS-0142",
+    "discipline": "Structure",
+    "zone": "Podium Level 3",
+    "description": "Transfer beam clashes with MEP riser at grid C4.",
+    "raised_date": "2026-08-11",
+    "due_date": "2026-08-25",
+    "status": "Open",
+    "linked_document": "STR-DWG-P3-014 Rev C"
+  },
+  {
+    "issue_id": "ISS-0143",
+    "discipline": "MEP",
+    "zone": "Podium Level 3",
+    "description": "Riser route requires coordination with structural transfer zone (see ISS-0142).",
+    "raised_date": "2026-08-11",
+    "due_date": "2026-08-25",
+    "status": "Open",
+    "linked_document": "MEP-DWG-P3-009 Rev B"
+  },
+  {
+    "issue_id": "ISS-0144",
+    "discipline": "Architecture",
+    "zone": "Facade - Podium",
+    "description": "Bracket depth for proposed terracotta rainscreen not yet confirmed against fire-stopping zone.",
+    "raised_date": "2026-08-05",
+    "due_date": "2026-08-19",
+    "status": "Open",
+    "linked_document": null
+  },
+  {
+    "issue_id": "ISS-0139",
+    "discipline": "MEP",
+    "zone": "Basement 1",
+    "description": "Plant room door swing conflicts with cable tray route.",
+    "raised_date": "2026-07-20",
+    "due_date": "2026-08-03",
+    "status": "Open",
+    "linked_document": "MEP-DWG-B1-002 Rev A"
+  },
+  {
+    "issue_id": "ISS-0128",
+    "discipline": "Structure",
+    "zone": "Tower Level 18",
+    "description": "Core wall thickness change not yet reflected in architectural model.",
+    "raised_date": "2026-07-02",
+    "due_date": "2026-07-16",
+    "status": "Closed",
+    "linked_document": "STR-DWG-T18-003 Rev D"
+  },
+  {
+    "issue_id": "ISS-0135",
+    "discipline": "Sustainability",
+    "zone": "Facade - Podium",
+    "description": "Embodied carbon assumption for facade substitution option not yet confirmed by sustainability lead.",
+    "raised_date": "2026-08-01",
+    "due_date": "2026-08-15",
+    "status": "Open",
+    "linked_document": null
+  }
+]

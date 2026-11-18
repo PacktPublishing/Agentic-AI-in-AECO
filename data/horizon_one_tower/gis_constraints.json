@@ -1,0 +1,31 @@
+{
+  "site_boundary": {
+    "area_m2": 4200,
+    "primary_frontage": "High Street (retail-active)",
+    "secondary_frontage": "Canal Walk (residential-facing)"
+  },
+  "flood_risk": {
+    "zone": "Flood Zone 2 (low-to-medium probability)",
+    "notes": "South-east site edge intersects the mapped Flood Zone 2 boundary. Finished floor levels at ground and basement need a flood risk assessment.",
+    "source": "Environment Agency flood map extract",
+    "confidence": "High"
+  },
+  "transport": {
+    "nearest_station": "Regeneration Quarter station (350m walk)",
+    "servicing_route_conflict": "Proposed servicing route along High Street overlaps with the morning pedestrian peak window",
+    "public_transport_accessibility_level": 5
+  },
+  "neighbouring_buildings": [
+    {"name": "Canal Walk Residences", "storeys": 8, "use": "Residential", "distance_m": 22, "orientation": "South-east of podium"},
+    {"name": "Regeneration Quarter Office", "storeys": 14, "use": "Office", "distance_m": 45, "orientation": "North of tower"},
+    {"name": "Riverside Terrace", "storeys": 6, "use": "Residential", "distance_m": 30, "orientation": "East of podium"}
+  ],
+  "utilities": {
+    "notes": "Existing substation at the north-east corner of the site constrains basement extent in that corner.",
+    "constrained_zone": "North-east basement corner"
+  },
+  "protected_views": {
+    "notes": "Site sits outside designated strategic view corridors, but is within the wider townscape sensitivity area referenced by Policy D9.",
+    "affects_height": true
+  }
+}

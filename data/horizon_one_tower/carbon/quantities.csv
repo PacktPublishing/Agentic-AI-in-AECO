@@ -1,0 +1,5 @@
+option,component,quantity,unit,factor_id,quantity_ref
+A,panels,10000,kg,F-ACP,DEMO-Q-A-r1
+A,supports,2000,kg,F-SUP,DEMO-Q-A-r1
+B,panels,30000,kg,F-TER,DEMO-Q-B-r1
+B,supports,2600,kg,F-SUP,DEMO-Q-B-r1

@@ -1,0 +1,13 @@
+{
+  "project": "Horizon One Tower",
+  "package_id": "HOT-POD-FAC-01",
+  "baseline_id": "DEMO-BASELINE-R03",
+  "quantity_m2": 1200.0,
+  "budget_gbp": 1050000.0,
+  "max_lead_weeks": 18,
+  "quantity_source": "DEMO-QTO-R03",
+  "budget_source": "DEMO-COST-R03",
+  "price_basis": "GBP excluding VAT; common reviewed scope",
+  "lead_basis": "Manufacturing release to site delivery",
+  "carbon_basis": "A1-A3; kgCO2e per m2 of equivalent facade scope"
+}

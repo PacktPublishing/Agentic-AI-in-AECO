@@ -1,0 +1,44 @@
+[
+  {
+    "scheme": "Riverside Quarter Phase 2",
+    "distance_km": 0.6,
+    "uses": ["Residential", "Retail"],
+    "achievable_value_residential_gbp_per_ft2": 950,
+    "achievable_rent_retail_gbp_per_ft2_pa": 45,
+    "absorption_rate_units_per_month": 6,
+    "transaction_date": "2026-04",
+    "delivery_risk_notes": "Reported piling delays; no cost overrun disclosed.",
+    "source": "Land Registry + agent comparable schedule"
+  },
+  {
+    "scheme": "Northbank Tower",
+    "distance_km": 1.1,
+    "uses": ["Residential", "Office"],
+    "achievable_value_residential_gbp_per_ft2": 1020,
+    "achievable_rent_office_gbp_per_ft2_pa": 58,
+    "absorption_rate_units_per_month": 4,
+    "transaction_date": "2025-11",
+    "delivery_risk_notes": "None reported.",
+    "source": "Agent comparable schedule"
+  },
+  {
+    "scheme": "Canal Wharf Residences",
+    "distance_km": 0.3,
+    "uses": ["Residential"],
+    "achievable_value_residential_gbp_per_ft2": 890,
+    "absorption_rate_units_per_month": 8,
+    "transaction_date": "2023-09",
+    "delivery_risk_notes": "Older transaction; market conditions have shifted since.",
+    "source": "Land Registry"
+  },
+  {
+    "scheme": "Highline Retail Parade",
+    "distance_km": 0.4,
+    "uses": ["Retail"],
+    "achievable_rent_retail_gbp_per_ft2_pa": 52,
+    "absorption_rate_units_per_month": 2,
+    "transaction_date": "2026-01",
+    "delivery_risk_notes": "Slower retail absorption reported; two units let below asking rent.",
+    "source": "Agent comparable schedule"
+  }
+]

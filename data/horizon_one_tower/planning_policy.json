@@ -1,0 +1,66 @@
+[
+  {
+    "topic": "Height",
+    "description": "Tall building proposals must be assessed against townscape and skyline impact through defined view corridors; a tower exceeding 30 storeys requires townscape justification.",
+    "clause_reference": "London Plan Policy D9 (Tall Buildings)",
+    "source_document": "planning_report_P03.pdf",
+    "requirement_type": "subject_to_justification",
+    "value": "30 storeys before townscape justification is triggered"
+  },
+  {
+    "topic": "Setback",
+    "description": "Podium massing above 6 storeys must step back a minimum of 3 metres from the primary street frontage to protect daylight to opposite buildings.",
+    "clause_reference": "Local Plan Policy D9.2 (Podium Massing)",
+    "source_document": "planning_report_P03.pdf",
+    "requirement_type": "hard_requirement",
+    "value": "3m minimum podium setback above 6 storeys"
+  },
+  {
+    "topic": "Daylight",
+    "description": "Development must not cause a material reduction in daylight/sunlight amenity to neighbouring residential windows, assessed using standard VSC methodology.",
+    "clause_reference": "Local Plan Policy D9.4 / Daylight and Sunlight SPG",
+    "source_document": "daylight_and_sunlight_guidance.pdf",
+    "requirement_type": "hard_requirement",
+    "value": "No material VSC reduction to neighbouring residential windows"
+  },
+  {
+    "topic": "Land Use",
+    "description": "Ground floor frontage along the primary retail street must be active use (retail, food and beverage, or community use) for a minimum continuous frontage length.",
+    "clause_reference": "Local Plan Policy E2 (Active Frontages)",
+    "source_document": "planning_report_P03.pdf",
+    "requirement_type": "hard_requirement",
+    "value": "Minimum 60% active frontage length along primary street"
+  },
+  {
+    "topic": "Parking and Servicing",
+    "description": "Servicing access must be routed to avoid conflict with peak pedestrian flow along the primary retail street.",
+    "clause_reference": "Transport Note TN-02",
+    "source_document": "transport_note.pdf",
+    "requirement_type": "subject_to_justification",
+    "value": "Servicing route must avoid peak pedestrian conflict windows (08:00-09:30, 17:00-18:30)"
+  },
+  {
+    "topic": "Public Realm",
+    "description": "A minimum of 1,200 sqm of publicly accessible open space must be provided at ground level, connected to the wider public realm strategy.",
+    "clause_reference": "Local Plan Policy G4 (Public Realm)",
+    "source_document": "planning_report_P03.pdf",
+    "requirement_type": "hard_requirement",
+    "value": "1,200 sqm minimum public realm"
+  },
+  {
+    "topic": "Sustainability",
+    "description": "Major development must demonstrate a credible pathway to net zero operational carbon and report embodied carbon using RICS methodology.",
+    "clause_reference": "Local Plan Policy S1 (Sustainable Design)",
+    "source_document": "planning_report_P03.pdf",
+    "requirement_type": "hard_requirement",
+    "value": "Net zero operational carbon pathway + RICS embodied carbon reporting"
+  },
+  {
+    "topic": "Pre-Application Advice",
+    "description": "Pre-application advice noted that a stepped massing strategy responding to the podium/tower relationship would be looked upon favourably, though this is guidance rather than a binding requirement.",
+    "clause_reference": "Pre-Application Meeting Note PA-04",
+    "source_document": "pre_application_notes.pdf",
+    "requirement_type": "subject_to_justification",
+    "value": "Stepped massing preferred (guidance only)"
+  }
+]
